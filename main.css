@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.active{
+    font-weight: bold;
+}
+
 
 .header {
     height: 55px;

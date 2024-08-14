@@ -1,0 +1,20 @@
+[
+    {
+        "name":"shivam",
+        "phone":9685430664,
+        "city": "Bilapur"
+    },
+
+    {
+        "name":"Satyam",
+        "phone":9644708454,
+        "city": "Raipur"
+    },
+
+    {
+        "name":"Azhar",
+        "phone":8867781193,
+        "city": "Gulbarga"
+    }
+
+]
